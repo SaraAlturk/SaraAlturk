@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaraAlturk
-- 👀 I’m interested creative coding , app development 
-- 🌱 I’m currently learning Java and Javascript
+- 👀 I’m interested creative coding , java OOP , machine learning
+- 🌱 I’m currently learning Java
 - 📫 How to reach me xsara.alturkx@gmail.com
 
 <!---
