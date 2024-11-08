@@ -5,8 +5,9 @@
 SaraAlturk/SaraAlturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+---------
 
-# <h3 align="center">Tech Stack 
+## Tech Stack
 <h3 align="center">Programming Languages & Syntax</h3>
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -103,5 +104,5 @@ You can click the Preview link to take a look at your changes.
       </tr>
     </tbody>
   </table>
-</div>
+</div> 
 
