@@ -1,4 +1,7 @@
-# Hi There, It's Sara!
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1><b>Hi there, I'm </b><a href="https://github.com/SaraAlturk">SARA</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br>
+
 <pre>
  ___       __   _______   ___       ________  ________  _____ ______   _______      
 |\  \     |\  \|\  ___ \ |\  \     |\   ____\|\   __  \|\   _ \  _   \|\  ___ \     
@@ -8,8 +11,14 @@
    \ \____________\ \_______\ \_______\ \_______\ \_______\ \__\    \ \__\ \_______\
     \|____________|\|_______|\|_______|\|_______|\|_______|\|__|     \|__|\|_______|
  </pre>
+ 
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 **I'm a senior in Computer Science with a strong interest in Artificial Intelligence, Machine Learning, and Cybersecurity. I'm passionate about exploring how AI and ML can drive innovative solutions while also ensuring that systems remain secure and resilient.** 
+
+<!-- Connect with me   -->
 
 <h3 align="center">Connect with Me!</h3>
 <div align="center">
@@ -18,13 +27,18 @@
 </div>
 
 
-## Tech Stack
-<h3 align="center">Programming Languages & Syntax</h3>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Tech Stack  -->
+<h3 align="center">Tech Stack</h3>
+<!-- Programming Languages & Syntax -->
+
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="5" align="center" style="color: white;">Languages:</th>
+      <th colspan="5" align="center" style="color: white;">Programming Languages & Syntax</th>
     </tr>
   </thead>
   <tbody>
@@ -42,12 +56,13 @@
  </table>
 </div>
 
-<h3 align="center">Database Management</h3>
+<!-- Database Management -->
+
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
     <thead>
       <tr>
-        <th colspan="2" align="center" style="color: white;">DB </th>
+        <th colspan="2" align="center" style="color: white;">Database Management </th>
       </tr>
     </thead>
     <tbody>
@@ -63,13 +78,13 @@
   </table>
 </div>
 
+<!-- AI/ML & Data Science Python Libraries -->
 
-<h3 align="center">AI/ML & Data Science</h3>
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="5" align="center" style="color: white;">Python Libraries</th>
+      <th colspan="5" align="center" style="color: white;"> AI/ML & Data Science Python Libraries</th>
     </tr>
   </thead>
   <tbody>
@@ -92,13 +107,13 @@
  </table>
 </div>
 
+<!-- Cybersecurity Tools & Technologies -->
 
-<h3 align="center">Cybersecurity Tools & Technologies</h3>
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
     <thead>
       <tr>
-        <th colspan="3" align="center" style="color: white;">Cybersecurity Tools</th>
+        <th colspan="3" align="center" style="color: white;">Cybersecurity Tools & Technologies</th>
       </tr>
     </thead>
     <tbody>
@@ -117,3 +132,6 @@
   </table>
 </div> 
 
+<!-- Github Stats -->
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
