@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @SaraAlturk
-- 📫 How to reach me xsara.alturkx@gmail.com
+# Hi There, It's Sara!
+<pre>
+ ___       __   _______   ___       ________  ________  _____ ______   _______      
+|\  \     |\  \|\  ___ \ |\  \     |\   ____\|\   __  \|\   _ \  _   \|\  ___ \     
+\ \  \    \ \  \ \   __/|\ \  \    \ \  \___|\ \  \|\  \ \  \\\__\ \  \ \   __/|    
+ \ \  \  __\ \  \ \  \_|/_\ \  \    \ \  \    \ \  \\\  \ \  \\|__| \  \ \  \_|/__  
+  \ \  \|\__\_\  \ \  \_|\ \ \  \____\ \  \____\ \  \\\  \ \  \    \ \  \ \  \_|\ \ 
+   \ \____________\ \_______\ \_______\ \_______\ \_______\ \__\    \ \__\ \_______\
+    \|____________|\|_______|\|_______|\|_______|\|_______|\|__|     \|__|\|_______|
+ </pre>
 
-<!---
-SaraAlturk/SaraAlturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
----------
+**I'm a senior in Computer Science with a strong interest in Artificial Intelligence, Machine Learning, and Cybersecurity. I'm passionate about exploring how AI and ML can drive innovative solutions while also ensuring that systems remain secure and resilient.** 
+
+<h3 align="center">Connect with Me!</h3>
+<div align="center">
+    <a href="https://www.linkedin.com/in/saraalturk-591197237/" target="_blank"><img src="https://img.shields.io/badge/-Sara%20AlTurk-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:xsara.alturkx@gmail.com"><img src="https://img.shields.io/badge/xsara.alturkx@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</div>
+
 
 ## Tech Stack
 <h3 align="center">Programming Languages & Syntax</h3>
@@ -42,7 +53,7 @@ You can click the Preview link to take a look at your changes.
     <tbody>
       <tr>
         <td align="center" style="border: none;">
-          <img src="68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+          <img src="MySQL.svg" alt="MySQL" width="50" height="50"/><br>MySQL
         </td>
         <td align="center" style="border: none;">
           <img src="mongoDB.gif" alt="MongoDB" width="50" height="50"/><br>MongoDB
